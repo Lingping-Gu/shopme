@@ -7,4 +7,5 @@ This is an international online shopping website like Amazon, supporting online 
 
 •	Implemented features and integrated third-party APIs for seamless shopping experience, including Google account login, product viewing, reviewing, shopping cart, PayPal checkout, etc. Utilized Amazon S3 to manage user-uploads
 
-https://shoppingme-676cbf3ff3a9.herokuapp.com/
+Backend: admin.shoppingme.online(account: nam@codejava.net, password: nam2020)
+Frontend: shoppingme.online
